@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "WACE,WAAW,CAAE,QAAQ,CACrB,GAAG,CAAE,0CAA0C,CAEjD,OAAO,CACL,QAAQ,CAAE,MAAM,CAChB,SAAC,CACC,WAAW,CAAE,QAAQ,CACrB,WAAW,CAAE,GAAG,CAClB,SAAC,CACC,eAAe,CAAE,IAAI",
+"sources": ["app.sass"],
+"names": [],
+"file": "app.css"
+}
