@@ -1,2 +1,2 @@
-@font-face{font-family:"Julius";src:url("res/fonts/JuliusSansOne-Regular.ttf")}div.App{overflow:hidden}div.App *{font-family:"Julius";font-weight:400}div.App a{text-decoration:none}
+@font-face{font-family:"Julius";src:url("res/fonts/JuliusSansOne-Regular.ttf")}div.App *{font-family:"Julius";font-weight:400;box-sizing:border-box}div.App a{text-decoration:none}
 /*# sourceMappingURL=app.css.map */
