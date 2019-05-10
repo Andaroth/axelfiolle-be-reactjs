@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="472abde6-98a9-4c0f-b374-855ad345f43a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/img/hexa_frontpage.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/main.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/main.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/home.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/home.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/home.sass" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,8 +35,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/home/home.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="384">
-                  <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+                <state relative-caret-position="24">
+                  <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="17" selection-end-column="5" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -70,8 +63,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/home/home.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                  <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+                <state relative-caret-position="277">
+                  <caret line="132" column="24" lean-forward="true" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
@@ -186,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557242281071</updated>
       <workItem from="1557242282239" duration="2524000" />
-      <workItem from="1557406948361" duration="8183000" />
+      <workItem from="1557406948361" duration="10178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10707000" />
+    <option name="totallyTimeSpent" value="12702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -260,15 +253,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/home/home.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="277">
+          <caret line="132" column="24" lean-forward="true" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/home/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="24">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
